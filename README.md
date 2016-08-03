@@ -6,6 +6,8 @@
 
 风格的话，看了几十个app，还是滴滴的设计最合理，所以按照滴滴的风格做一个，
 
+![alt tag](https://raw.githubusercontent.com/CaledoniaProject/DidiCityPickerViewController/master/contrib/screen.jpg)
+
 ## 用法
 
 准备工作，
